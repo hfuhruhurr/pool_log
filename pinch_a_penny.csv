@@ -1,0 +1,5 @@
+date,time,total_chlorine,free_chlorine,combined_chlorine,ph,acid_demand,base_demand,total_alkalinity,calcium_hardness,stabilizer, total_dissolved_solids,salt,note
+,,2,2,0,7.4,0,0,80,250,40,300,,ideal min range
+,,4,4,0,7.6,0,0,120,400,100,3000,,ideal max range
+9/10/2022,16:45,10,10,0,7.5,,,110,,70,1800,,first real reading
+9/16/2022,15:14,5,5,0,7.4,,,40,,65,1500,,chem readings did not trigger algae rx...my verbal observation did
